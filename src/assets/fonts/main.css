@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Avenir Black';
+  src: local('Avenir Black'), url(./Avenir-Black.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Avenir Medium';
+  src: local('Avenir Medium'), url(./Avenir-Medium.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Avenir Heavy';
+  src: local('Avenir Heavy'), url(./Avenir-Heavy.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Avenir Roman';
+  src: local('Avenir Roman'), url(./Avenir-Roman.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Din Condensed Bold';
+  src: local('Din Condensed Bold'),
+    url(./DIN-Condensed-Bold.ttf) format('truetype');
+}
